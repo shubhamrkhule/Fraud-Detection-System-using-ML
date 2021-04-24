@@ -1,1 +1,3 @@
-# Fraud-Detection-System-using-ML
+Fraud is a major issue in banks, life insurance, health insurance, and many other industries. These major frauds are dependent on the person attempting to sell you the fake product or service; if you are mature enough to determine what is wrong, you will never engage in any fraudulent transactions. However, one type of fraud that has been on the rise in recent years is fraud in making payments.
+
+I'm using transaction data for online purchases collected from an e-commerce retailer. The dataset contains over 39000 transactions, each of which has 5 features that describe the nature of the transaction.
